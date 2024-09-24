@@ -18,7 +18,7 @@ advised by Prof. [Yang Zhou](https://zhouyangvcc.github.io/).
 
 ## Research Highlights
 
-🧐 Navigate to the [Publications page](#publications) at the top of the page to browse all of my publications. 
+🧐 Navigate to the [Publications page](https://hytidel.github.io//publications) at the top of the page to browse all of my publications. 
 
 Coming soon ...
 
