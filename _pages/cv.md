@@ -11,13 +11,15 @@ redirect_from:
 
 Education
 ======
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
-* M.S. in Jekyll, GitHub University, 2014
-* B.S. in GitHub, GitHub University, 2012
+* B.S. in [SMS](https://math.szu.edu.cn/), [Shenzhen University](https://www.szu.edu.cn/), 2021.09 ~ 2025.06 (expected)
+* B.Eng. in [CSSE](https://csse.szu.edu.cn/), [Shenzhen University](https://www.szu.edu.cn/), 2021.09 ~ 2025.06 (expected)
 
-Work experience
+Research Experience
 ======
-* Spring 2024: Academic Pages Collaborator
+
+Coming soon ...
+
+<!-- * Spring 2024: Academic Pages Collaborator
   * Github University
   * Duties includes: Updates and improvements to template
   * Supervisor: The Users
@@ -30,16 +32,7 @@ Work experience
 * Summer 2015: Research Assistant
   * Github University
   * Duties included: Tagging issues
-  * Supervisor: Professor Git
-  
-Skills
-======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+  * Supervisor: Professor Git -->
 
 Publications
 ======
@@ -47,18 +40,33 @@ Publications
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
   
-Talks
+Leadership
+======
+* 2024.08 ~ Present, *SZUMusical* Musical Club, [Shenzhen University](https://www.szu.edu.cn/), Vice President (Responsible for Stage Management)
+* 2023.06 ~ Present, **ACM Algorithm Training Team**, [Shenzhen University](https://www.szu.edu.cn/), **Vice Captain & Student Coach**
+* 2022.09 ~ 2023.06, Volunteer Department, [SMS](https://math.szu.edu.cn/), Honorary Minister
+
+Skills
+======
+
+Coming soon ...
+
+<!-- * Skill 1
+* Skill 2
+  * Sub-skill 2.1
+  * Sub-skill 2.2
+  * Sub-skill 2.3
+* Skill 3 -->
+
+<!-- Talks
 ======
   <ul>{% for post in site.talks reversed %}
     {% include archive-single-talk-cv.html  %}
   {% endfor %}</ul>
-  
+
 Teaching
 ======
   <ul>{% for post in site.teaching reversed %}
     {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Service and leadership
-======
-* Currently signed in to 43 different slack teams
+  {% endfor %}</ul> -->
+
