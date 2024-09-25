@@ -7,6 +7,8 @@ redirect_from:
   - /about.html
 ---
 
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fhytidel.github.io&count_bg=%23FACDFF&title_bg=%23C171B8&icon=apachecassandra.svg&icon_color=%235F1F56&title=Visit&edge_flat=false)](https://hits.seeyoufarm.com)
+
 ## About Me
 
 🤣 Hi, my Chinese name is **Xi Wang** (**王曦**). 
