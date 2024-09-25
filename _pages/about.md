@@ -9,6 +9,9 @@ redirect_from:
 
 ## About Me
 
+🤣 Hi, my Chinese name is **Xi Wang** (**王曦**). 
+It would be better if you call me by my English name, **Hytidel**, or its phonetic imitation in Chinese, **海底桃**.
+
 😀 I am a senior undergraduate student at [SMS](https://math.szu.edu.cn/) and [CSSE](https://csse.szu.edu.cn/), [Shenzhen University](https://www.szu.edu.cn/), 
 advised by Prof. [Yang Zhou](https://zhouyangvcc.github.io/). 
 
