@@ -82,10 +82,12 @@ author:
 publication_category:
   conferences:
     title: 'Conference Papers'
-  manuscripts:
+  journal:
     title: 'Journal Articles'    
   books:
     title: 'Books'
+  preprint:
+    title: 'Preprints'
 
 # Site Settings
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
