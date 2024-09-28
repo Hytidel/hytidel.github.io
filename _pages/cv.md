@@ -43,11 +43,16 @@ Coming soon ...
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
   
+Awards
+======
+* [2023.05] The 2023 ICPC China Shannxi National Invitational Programming Contest, Silver Medal
+* [2022.11] The 2022 ICPC Asia Hefei Regional Contest, Bronze Medal
+
 Leadership
 ======
-* 2024.08 ~ Present, *SZUMusical* Musical Club, [Shenzhen University](https://www.szu.edu.cn/), Vice President (Responsible for Stage Management)
-* 2023.06 ~ Present, **ACM Algorithm Training Team**, [Shenzhen University](https://www.szu.edu.cn/), **Vice Captain & Student Coach**
-* 2022.09 ~ 2023.06, Volunteer Department, [SMS](https://math.szu.edu.cn/), Honorary Minister
+* [2024.08 ~ Present]  *SZUMusical* Musical Club, [Shenzhen University](https://www.szu.edu.cn/), Vice President (Responsible for Stage Management)
+* [2023.06 ~ Present]  **ACM Algorithm Training Team**, [Shenzhen University](https://www.szu.edu.cn/), **Vice Captain & Student Coach**
+* [2022.09 ~ 2023.06]  Volunteer Department, [SMS](https://math.szu.edu.cn/), Honorary Minister
 
 Skills
 ======

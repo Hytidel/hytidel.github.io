@@ -4,10 +4,14 @@ category: preprint
 premalink: /publication/video-tracking-for-axis-estimation
 title: "Articulated Object Manipulation using Online Axis Estimation with SAM2-Based Tracking"
 date: 2024-09-24
-excerpt: "In this study, we propose a novel closed-loop pipeline integrating interactive perception with online refined axis estimation from segmented 3D point clouds with SAM2-based tracking. "
+excerpt: "<b>Xi Wang</b>, Tianxing Chen, Qiaojun Yu, Tianling Xu, Zanxin Chen, Yiting Fu, Cewu Lu, Yao Mu, Ping Luo"
 venue: arXiv
 paperurl: "https://arxiv.org/pdf/2409.16287"
 slidesurl: "/video-tracking-for-axis-estimation/others/slides/slides.pptx"
+---
+
+**Xi Wang**, Tianxing Chen, Qiaojun Yu, Tianling Xu, Zanxin Chen, Yiting Fu, Cewu Lu, Yao Mu, Ping Luo
+
 ---
 
 In this study, we propose a novel closed-loop pipeline integrating interactive perception with online refined axis estimation from segmented 3D point clouds with SAM2-based tracking.
