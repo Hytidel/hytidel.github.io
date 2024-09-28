@@ -19,7 +19,7 @@ advised by Prof. [Yang Zhou](https://zhouyangvcc.github.io/).
 
 😋 My research interests include **computer graphics** (CG), **computer vision** (CV) and their applications in **creative arts**.
 
-[Homepage](https://hytidel.github.io/) / [Email](hytidel333@gmail.com) / [Google Scholar]() / [Github](https://github.com/hytidel) / [Bilibili](https://space.bilibili.com/382329676)
+[Homepage](https://hytidel.github.io/) / [Email](hytidel333@gmail.com) / [Google Scholar](https://scholar.google.com/citations?user=fVdwWy0AAAAJ) / [Github](https://github.com/hytidel) / [Bilibili](https://space.bilibili.com/382329676)
 
 ## Research Highlights
 
