@@ -11,8 +11,8 @@ redirect_from:
 
 Education
 ======
-* B.S. in [SMS](https://math.szu.edu.cn/), [Shenzhen University](https://www.szu.edu.cn/), 2021.09 ~ 2025.06 (expected)
-* B.Eng. in [CSSE](https://csse.szu.edu.cn/), [Shenzhen University](https://www.szu.edu.cn/), 2021.09 ~ 2025.06 (expected)
+* [2021.09 ~ 2025.07 (expected)] B.S. in [SMS](https://math.szu.edu.cn/), [Shenzhen University](https://www.szu.edu.cn/)
+* [2021.09 ~ 2025.07 (expected)] B.Eng. in [CSSE](https://csse.szu.edu.cn/), [Shenzhen University](https://www.szu.edu.cn/)
 
 Research Experience
 ======
