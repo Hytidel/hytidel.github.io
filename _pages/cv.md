@@ -17,22 +17,9 @@ Education
 Research Experience
 ======
 
-Coming soon ...
-
-<!-- * Spring 2024: Academic Pages Collaborator
-  * Github University
-  * Duties includes: Updates and improvements to template
-  * Supervisor: The Users
-
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
-
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git -->
+* [2024.08 ~ Present] [Visual Computing Research Center](https://vcc.tech) (VCC), [Shenzhen University](https://www.szu.edu.cn/)
+  * Research & Duties: **Computer Graphics** (CG), **Computer Vision** (CV)
+  * Supervisor: Prof. [Yang Zhou](https://zhouyangvcc.github.io/)
 
 Publications
 ======
