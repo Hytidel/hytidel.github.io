@@ -27,7 +27,7 @@ Publications
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
   
-Awards (Selected)
+Honors \& Awards (Selected)
 ======
 * [2024.02] 2024 Mathematical Contest In Modeling, Meritorious Winner
 * [2023.05] The 2023 ICPC China Shannxi National Invitational Programming Contest, Silver Medal
