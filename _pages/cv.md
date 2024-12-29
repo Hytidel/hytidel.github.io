@@ -26,10 +26,15 @@ Publications
   <ul>{% for post in site.publications reversed %}
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
-  
-Honors & Awards (Selected)
+
+Honors (Selected)
 ======
-* [2024.02] 2024 Mathematical Contest In Modeling, Meritorious Winner
+* [2024.11] Nomination Award for Excellent Star of Shenzhen University (16 / 30, 000, top 0.053%)
+* [2024.10] **National Scholarship of China for Undergraduates** (top 0.2%)
+
+Awards (Selected)
+======
+<!-- * [2024.02] 2024 Mathematical Contest In Modeling, Meritorious Winner -->
 * [2023.05] The 2023 ICPC China Shannxi National Invitational Programming Contest, Silver Medal
 * [2022.11] The 2022 ICPC Asia Hefei Regional Contest, Bronze Medal
 
@@ -37,7 +42,7 @@ Leadership (Selected)
 ======
 * [2024.08 ~ Present]  *SZUMusical* Musical Club, [Shenzhen University](https://www.szu.edu.cn/), Vice President (Responsible for Stage Management)
 * [2023.06 ~ Present]  **ACM Algorithm Training Team**, [Shenzhen University](https://www.szu.edu.cn/), **Vice Captain & Student Coach**
-* [2022.09 ~ 2023.06]  Volunteer Department, [SMS](https://math.szu.edu.cn/), Honorary Minister
+<!-- * [2022.09 ~ 2023.06]  Volunteer Department, [SMS](https://math.szu.edu.cn/), Honorary Minister -->
 
 Skills (Selected)
 ======
