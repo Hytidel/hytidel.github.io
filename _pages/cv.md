@@ -11,7 +11,7 @@ redirect_from:
 
 Education
 ======
-* [2021.09 ~ 2025.07 (expected)] B.S. in [SMS](https://math.szu.edu.cn/), [Shenzhen University](https://www.szu.edu.cn/), China
+* [2021.09 ~ 2025.07 (expected)] B.S. in [SMS](https://math.szu.edu.cn/), [Shenzhen University](https://www.szu.edu.cn/) (SZU), China
 * [2021.09 ~ 2025.07 (expected)] B.Eng. in [CSSE](https://csse.szu.edu.cn/), [Shenzhen University](https://www.szu.edu.cn/), China
 
 Research Experience
@@ -29,8 +29,8 @@ Publications
 
 Honors (Selected)
 ======
-* [2024.11] Nomination Award for Excellent Star of Shenzhen University (16 / 30, 000, top 0.053%)
-* [2024.10] **National Scholarship of China for Undergraduates** (top 0.2%)
+* [2024.11] Nomination Award for Excellent Star of Shenzhen University (16 / 30, 000, top 0.053% in SZU)
+* [2024.10] **National Scholarship of China for Undergraduates** (top 0.2% nationwide)
 
 Awards (Selected)
 ======
