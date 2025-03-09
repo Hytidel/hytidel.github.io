@@ -17,7 +17,7 @@ It would be better if you call me by my English name, **Hytidel**, or its phonet
 😀 I am a senior undergraduate student at [SMS](https://math.szu.edu.cn/) and [CSSE](https://csse.szu.edu.cn/), [Shenzhen University](https://www.szu.edu.cn/), 
 advised by Prof. [Yang Zhou](https://zhouyangvcc.github.io/). 
 
-😋 My research interests include **computer graphics** (CG), **computer vision** (CV) and their applications in **creative arts**.
+😋 My research interests include **computer graphics** (CG), **computer vision** (CV) and their applications in **creative arts**. My recent research primarily focus on **real-time rendering**, **the theory of diffusion models**, and **image synthesis**. 
 
 [Homepage](https://hytidel.github.io/) / [Email](hytidel333@gmail.com) / [Google Scholar](https://scholar.google.com/citations?user=fVdwWy0AAAAJ) / [Github](https://github.com/hytidel) / [Bilibili](https://space.bilibili.com/382329676)
 
