@@ -12,12 +12,12 @@ redirect_from:
 Education
 ======
 * [2021.09 ~ 2025.07 (expected)] B.S. in [SMS](https://math.szu.edu.cn/), [Shenzhen University](https://www.szu.edu.cn/) (SZU), China
-* [2021.09 ~ 2025.07 (expected)] B.Eng. in [CSSE](https://csse.szu.edu.cn/), [Shenzhen University](https://www.szu.edu.cn/), China
+* [2021.09 ~ 2025.07 (expected)] B.Eng. in [CSSE](https://csse.szu.edu.cn/), [Shenzhen University](https://www.szu.edu.cn/) (SZU), China
 
 Research Experience
 ======
 * [2024.08 ~ Present] [Visual Computing Research Center](https://vcc.tech) (VCC), [Shenzhen University](https://www.szu.edu.cn/), China
-  * Research & Duties: Computer Graphics (CG), Computer Vision (CV)
+  * Research Topics: The Theory of Diffusion Model, Image Synthesis and Editing
   * Supervisor: Prof. [Yang Zhou](https://zhouyangvcc.github.io/)
 
 Publications

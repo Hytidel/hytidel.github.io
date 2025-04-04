@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fhytidel.github.io&count_bg=%23FACDFF&title_bg=%23C171B8&icon=apachecassandra.svg&icon_color=%235F1F56&title=Visit&edge_flat=false)](https://hits.seeyoufarm.com)
+![Visitors](https://api.visitorbadge.io/api/combined?path=https%3A%2F%2Fhytidel.github.io%2F&label=HITS&countColor=%23ff9a9a&style=plastic&labelStyle=none)
 
 ## About Me
 
