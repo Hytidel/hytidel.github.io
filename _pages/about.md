@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-![Visitors](https://api.visitorbadge.io/api/combined?path=https%3A%2F%2Fhytidel.github.io%2F&label=HITS&countColor=%23ff9a9a&style=plastic&labelStyle=none)
+![Visitors](https://api.visitorbadge.io/api/combined?path=https%3A%2F%2Fhytidel.github.io&label=HITS&countColor=%23ff9a9a&style=plastic&labelStyle=none)
 
 ## About Me
 
