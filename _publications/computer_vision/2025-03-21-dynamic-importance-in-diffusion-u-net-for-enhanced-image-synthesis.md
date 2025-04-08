@@ -5,7 +5,7 @@ premalink: /publication/dynamic-importance-and-uncertainty-in-unet
 title: "Dynamic Importance in Diffusion U-Net for Enhanced Image Synthesis"
 date: 2025-03-21
 excerpt: "<b>Xi Wang</b>, Ziqi He, Yang Zhou<sup>†</sup>"
-venue: arXiv
+venue: ICME 2025
 paperurl: "https://arxiv.org/abs/2504.03471"
 ---
 
