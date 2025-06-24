@@ -17,10 +17,10 @@ It would be better if you call me by my English name, **Hytidel**, or its phonet
 😀 I am a senior undergraduate student at [SMS](https://math.szu.edu.cn/) and [CSSE](https://csse.szu.edu.cn/), [Shenzhen University](https://www.szu.edu.cn/). 
 I am currently conducting research at [Visual Computing Research Center](https://vcc.tech) (VCC), advised by Prof. [Yang Zhou](https://zhouyangvcc.github.io/). 
 
-😋 My research interests include **computer graphics** (CG), **computer vision** (CV) and their applications in **creative arts**. My recent research primarily focus on **real-time rendering**, **the theory of diffusion models**, and **image synthesis**. 
+😋 My research interests include **computer graphics** (CG), **computer vision** (CV) and their applications in **creative arts**. My recent research primarily focus on **real-time rendering**, **AIGC-driven artistic creation**, and **the theory of diffusion models and reinforcement learning**. 
 
 😇 I have a strong preference for research that involves **explicit modeling**, **solid theoretical foundations**, and **high interpretability**. 
-I am not particularly fond of AI, especially training a neural network as a black box, with no insight into why and how it works. 
+I am not particularly fond of training a neural network as a black box, with no insight into why and how it works. 
 Instead, I primarily focus on leveraging existing pre-trained models to conduct research that is interpretable and theoretically grounded. 
 I am not inclined toward overly engineering research.
 Precisely, my interests lie in a balance of approximately 60%~70% theoretical work and 40%~30% engineering.
