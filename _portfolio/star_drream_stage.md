@@ -1,6 +1,6 @@
 ---
 title: "\"Star Dream Stage\" Musical Gala"
-excerpt: "Musical medley. (2024.11, Shenzhen University)<br/><img src='./asset/star_drream_stage.png'>"
+excerpt: "Musical medley. <br/>2024.11, Shenzhen University<br/><img src='./asset/star_drream_stage.png'>"
 collection: portfolio
 ---
 
