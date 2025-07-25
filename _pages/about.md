@@ -28,7 +28,7 @@ I am not particularly fond of training a neural network as a black box, with no 
 I am not inclined toward overly engineering research.
 Precisely, my interests lie in a balance of approximately 60%~70% theoretical work and 40%~30% engineering. -->
 
-🔮 I also have strong interests in **artistry** (music, visual arts) and **occultism** (mind-body-spirit, Tarot). 
+🔮 I also have strong interests in **artistry** (music, visual arts) and **occultism** (mind-body-spirit, Tarot, Astrology). 
 
 [Homepage](https://hytidel.github.io/) / [Email](mailto:hytidel333@gmail.com) / [Google Scholar](https://scholar.google.com/citations?user=fVdwWy0AAAAJ) / [Github](https://github.com/hytidel) / [Bilibili (10k followers)](https://space.bilibili.com/382329676)
 
