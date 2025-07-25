@@ -8,7 +8,7 @@ author_profile: true
 {% include base_path %}
 
 As a **self-media content creator**, I maintain an educational channel on Bilibili ([Hytidel](https://space.bilibili.com/382329676)) with **10k+** subscribers. 
-Although I am **not** a lecturer or processor, I enjoy synthesizing my knowledge and **creating online courses** to disseminate insights. 
+Although I am **not** a lecturer or professor, I enjoy synthesizing my knowledge and **creating online courses** to disseminate insights. 
 I am honored that, these courses have garnered significant viewership (**1M+**), and **genuinely helped numerous students**.
 
 **Open Courses:**
